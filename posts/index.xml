@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lance Lance Revolution</title>
-    <link>/</link>
-    <description>Recent content on Lance Lance Revolution</description>
+    <title>Posts on Lance Lance Revolution</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Lance Lance Revolution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved - 2018</copyright>
     <lastBuildDate>Thu, 24 May 2018 12:46:47 -0400</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
