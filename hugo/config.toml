@@ -1,0 +1,22 @@
+baseURL= "/"
+languageCode= "en"
+title= "Lance Lance Revolution"
+description = "Site for learning Hugo and Forestry"
+metadescription = "Lance Lance Revolution Hugo Test Site"
+author = "Lance Akins"
+paginate = 5
+copyright = "All rights reserved - 2018"
+theme = "hugo-theme-casper-master"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+  description = "Welcome to my website"
+  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = "/img/darius-soodmand-116253.jpg"
+  author = "YOUR_NAME"
+  authorlocation = "Earth, Milky Way Galaxy"
+  authorwebsite = ""
+  authorbio= ""
+  logo = ""
+  hjsStyle = "default"
+  paginatedsections = ["posts"]
