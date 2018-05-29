@@ -1,7 +1,6 @@
 ---
 title: Lance Lance Revolution
 type: page
-draft: true
 
 ---
 Hello world! I'm `content/_index.md`
