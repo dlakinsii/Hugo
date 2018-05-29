@@ -1,5 +1,5 @@
 ---
-title: Of Nightmares and Buton Clicks
+title: Of Nightmares and Button Clicks
 date: 2018-05-24 12:48:07 -0400
 author: Lance Akins
 
