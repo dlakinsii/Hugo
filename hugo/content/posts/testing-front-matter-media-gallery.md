@@ -15,3 +15,7 @@ If you click this link it takes you to a 404 Error page, but you can right click
 [Self Evaluation Response 2 - Somewhere in the Silence.pdf](/uploads/2018/05/30/Self Evaluation Response 2 - Somewhere in the Silence.pdf "Self Evaluation Response 2 - Somewhere in the Silence.pdf")
 
 ## Media Gallery
+
+    {{ if .Site.Params.logo }}
+            <a class="blog-logo" href="{{.Site.BaseURL}}"><img src="{{ .Site.Params.logo | relURL}}" alt="Home" /></a>
+          {{end}}
