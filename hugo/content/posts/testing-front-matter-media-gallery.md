@@ -8,7 +8,7 @@ I have been tasked with figuring how how to perform searches on our new static s
 
     <ul>
       {{ range .Params.gallery }}
-        <li><img src="{{ . | relURL }}"></li>
+        <li><img src="{{ . | uploads }}"></li>
       {{ end }}
     </ul>
     
