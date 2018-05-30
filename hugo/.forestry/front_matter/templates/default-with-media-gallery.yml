@@ -14,5 +14,7 @@ fields:
 - type: image_gallery
   name: files
   label: Files
+  hidden: false
+  description: Files from Gallery
 pages:
 - posts/testing-front-matter-media-gallery.md
