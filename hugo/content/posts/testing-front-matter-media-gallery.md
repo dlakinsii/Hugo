@@ -4,7 +4,6 @@ files = ["/uploads/2018/05/30/sdfgdsfg2018_05_30_16_22_03_.jpg", "/uploads/2018/
 title = "Testing Front Matter Media Gallery"
 
 +++
-`layouts/_default/single.html`
 
 ## Static Site Search Functionality
 
