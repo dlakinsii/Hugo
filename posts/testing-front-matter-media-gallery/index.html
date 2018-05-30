@@ -39,7 +39,8 @@
     <title>Testing Front Matter Media Gallery &middot; Lance Lance Revolution</title>
 
     
-    <meta name="description" content="Static Site Search Functionality I have been tasked with figuring how how to perform searches on our new static sites. While Forestry highly recommends Algolia," />
+    <meta name="description" content="layouts/_default/single.html
+Static Site Search Functionality I have been tasked with figuring how how to perform searches on our new static sites. While Forest" />
     
 
     <meta name="HandheldFriendly" content="True" />
@@ -100,7 +101,7 @@
     },
     "headline": Testing Front Matter Media Gallery,
     "name": Testing Front Matter Media Gallery,
-    "wordCount": 120,
+    "wordCount": 107,
     "timeRequired": "PT1M",
     "inLanguage": {
       "@type": "Language",
@@ -183,6 +184,8 @@
     <section class="post-content">
       
 
+<p><code>layouts/_default/single.html</code></p>
+
 <h2 id="static-site-search-functionality">Static Site Search Functionality</h2>
 
 <p>I have been tasked with figuring how how to perform searches on our new static sites. While Forestry highly recommends Algolia, we will likely use either an open-source or in-house solution. One promising open-source approach is ElasticSearch, but before I start trying to implement search functionality, I first need to prove that I indeed have content to search.</p>
@@ -194,11 +197,6 @@
 <p><a href="/uploads/2018/05/30/Self Evaluation Response 2 - Somewhere in the Silence.pdf" title="Self Evaluation Response 2 - Somewhere in the Silence.pdf">Self Evaluation Response 2 - Somewhere in the Silence.pdf</a></p>
 
 <h2 id="media-gallery">Media Gallery</h2>
-
-<pre><code>{{ if .Site.Params.logo }}
-        &lt;a class=&quot;blog-logo&quot; href=&quot;{{.Site.BaseURL}}&quot;&gt;&lt;img src=&quot;{{ .Site.Params.logo | relURL}}&quot; alt=&quot;Home&quot; /&gt;&lt;/a&gt;
-      {{end}}
-</code></pre>
 
     </section>
 
