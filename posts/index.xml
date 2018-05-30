@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved - 2018</copyright>
-    <lastBuildDate>Thu, 24 May 2018 12:48:07 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 May 2018 14:23:43 -0400</lastBuildDate>
     
 	<atom:link href="https://dlakinsii.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Testing Front Matter Media Gallery</title>
+      <link>https://dlakinsii.github.io/hugo/posts/testing-front-matter-media-gallery/</link>
+      <pubDate>Wed, 30 May 2018 14:23:43 -0400</pubDate>
+      
+      <guid>https://dlakinsii.github.io/hugo/posts/testing-front-matter-media-gallery/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Of Nightmares and Button Clicks</title>
