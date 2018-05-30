@@ -6,7 +6,7 @@ title = "Testing Front Matter Media Gallery"
 +++
 ## Static Site Search Functionality
 
-I have been tasked with figuring how how to perform searches on our new static sites. While Forestry highly recommends Algolia, we will likely use either an open-source or in-house solution. One promising open-source approach is ElasticSearch, but before I start trying to implementing search functionality, I first need to prove that I indeed have content to search.
+I have been tasked with figuring how how to perform searches on our new static sites. While Forestry highly recommends Algolia, we will likely use either an open-source or in-house solution. One promising open-source approach is ElasticSearch, but before I start trying to implement search functionality, I first need to prove that I indeed have content to search.
 
 ## Linking to Content
 
