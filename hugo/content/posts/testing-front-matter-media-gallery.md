@@ -4,3 +4,11 @@ files = ["/uploads/2018/05/30/Somewhere in the Silence - Golden Shovel 4th draft
 title = "Testing Front Matter Media Gallery"
 
 +++
+I have been tasked with figuring how how to perform searches on our new static sites. While Forestry highly recommends Algolia, we will likely use either an open-source or in-house solution. One promising open-source approach is ElasticSearch, but before I start trying to implementing search functionality, I first need to prove that I indeed have content to search.
+
+    <ul>
+      {{ range .Params.gallery }}
+        <li><img src="{{ . | relURL }}"></li>
+      {{ end }}
+    </ul>
+    
