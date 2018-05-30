@@ -39,7 +39,7 @@
     <title>Testing Front Matter Media Gallery &middot; Lance Lance Revolution</title>
 
     
-    <meta name="description" content="" />
+    <meta name="description" content="I have been tasked with figuring how how to perform searches on our new static sites. While Forestry highly recommends Algolia, we will likely use either an ope" />
     
 
     <meta name="HandheldFriendly" content="True" />
@@ -100,8 +100,8 @@
     },
     "headline": Testing Front Matter Media Gallery,
     "name": Testing Front Matter Media Gallery,
-    "wordCount": 0,
-    "timeRequired": "PT0M",
+    "wordCount": 73,
+    "timeRequired": "PT1M",
     "inLanguage": {
       "@type": "Language",
       "alternateName": en
@@ -181,7 +181,15 @@
     </header>
 
     <section class="post-content">
-      
+      <p>I have been tasked with figuring how how to perform searches on our new static sites. While Forestry highly recommends Algolia, we will likely use either an open-source or in-house solution. One promising open-source approach is ElasticSearch, but before I start trying to implementing search functionality, I first need to prove that I indeed have content to search.</p>
+
+<pre><code>&lt;ul&gt;
+  {{ range .Params.gallery }}
+    &lt;li&gt;&lt;img src=&quot;{{ . | relURL }}&quot;&gt;&lt;/li&gt;
+  {{ end }}
+&lt;/ul&gt;
+</code></pre>
+
     </section>
 
 
