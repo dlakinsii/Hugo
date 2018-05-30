@@ -18,8 +18,8 @@
       <pubDate>Wed, 30 May 2018 14:23:43 -0400</pubDate>
       
       <guid>https://dlakinsii.github.io/hugo/posts/testing-front-matter-media-gallery/</guid>
-      <description>I have been tasked with figuring how how to perform searches on our new static sites. While Forestry highly recommends Algolia, we will likely use either an open-source or in-house solution. One promising open-source approach is ElasticSearch, but before I start trying to implementing search functionality, I first need to prove that I indeed have content to search.
-&amp;lt;ul&amp;gt; {{ range .Params.gallery }} &amp;lt;li&amp;gt;&amp;lt;img src=&amp;quot;{{ . | uploads }}&amp;quot;&amp;gt;&amp;lt;/li&amp;gt; {{ end }} &amp;lt;/ul&amp;gt;  </description>
+      <description>Static Site Search Functionality I have been tasked with figuring how how to perform searches on our new static sites. While Forestry highly recommends Algolia, we will likely use either an open-source or in-house solution. One promising open-source approach is ElasticSearch, but before I start trying to implementing search functionality, I first need to prove that I indeed have content to search.
+Linking to Content Self Evaluation Response 2 - Somewhere in the Silence.</description>
     </item>
     
     <item>
