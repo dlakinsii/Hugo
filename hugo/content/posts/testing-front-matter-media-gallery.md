@@ -10,8 +10,8 @@ I have been tasked with figuring how how to perform searches on our new static s
 
 ## Linking to Content
 
+If you click this link it takes you to a 404 Error page, but you can right click and save, though I don't know why anyone would need this file.
+
 [Self Evaluation Response 2 - Somewhere in the Silence.pdf](/uploads/2018/05/30/Self Evaluation Response 2 - Somewhere in the Silence.pdf "Self Evaluation Response 2 - Somewhere in the Silence.pdf")
 
 ## Media Gallery
-
-\:Files:
