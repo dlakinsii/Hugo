@@ -4,6 +4,8 @@ files = ["/uploads/2018/05/30/sdfgdsfg2018_05_30_16_22_03_.jpg", "/uploads/2018/
 title = "Testing Front Matter Media Gallery"
 
 +++
+`layouts/_default/single.html`
+
 ## Static Site Search Functionality
 
 I have been tasked with figuring how how to perform searches on our new static sites. While Forestry highly recommends Algolia, we will likely use either an open-source or in-house solution. One promising open-source approach is ElasticSearch, but before I start trying to implement search functionality, I first need to prove that I indeed have content to search.
@@ -15,7 +17,3 @@ If you click this link it takes you to a 404 Error page, but you can right click
 [Self Evaluation Response 2 - Somewhere in the Silence.pdf](/uploads/2018/05/30/Self Evaluation Response 2 - Somewhere in the Silence.pdf "Self Evaluation Response 2 - Somewhere in the Silence.pdf")
 
 ## Media Gallery
-
-    {{ if .Site.Params.logo }}
-            <a class="blog-logo" href="{{.Site.BaseURL}}"><img src="{{ .Site.Params.logo | relURL}}" alt="Home" /></a>
-          {{end}}
