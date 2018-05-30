@@ -14,3 +14,5 @@ fields:
 - type: image_gallery
   name: files
   label: Files
+pages:
+- posts/testing-front-matter-media-gallery.md
