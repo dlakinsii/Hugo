@@ -1,6 +1,6 @@
 +++
 date = "2018-05-30T14:23:43-04:00"
-files = ["/uploads/2018/05/30/Somewhere in the Silence - Golden Shovel 4th draft.pdf", "/uploads/2018/05/30/Self Evaluation Response 2 - Somewhere in the Silence.pdf"]
+files = ["/uploads/2018/05/30/sdfgdsfg2018_05_30_16_22_03_.jpg", "/uploads/2018/05/30/Somewhere in the Silence - Golden Shovel 4th draft.pdf", "/uploads/2018/05/30/Self Evaluation Response 2 - Somewhere in the Silence.pdf"]
 title = "Testing Front Matter Media Gallery"
 
 +++
