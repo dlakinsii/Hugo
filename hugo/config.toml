@@ -6,7 +6,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
 metadescription = "Lance Lance Revolution Hugo Test Site"
 paginate = 5
-theme = "hugo-theme-casper-master"
+
 title = "Lance Lance Revolution"
 [outputs]
 home = ["HTML", "CSS"]
