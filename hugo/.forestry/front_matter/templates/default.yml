@@ -20,3 +20,9 @@ fields:
 - type: file
   label: Upload A File
   name: upload_a_file
+- type: color
+  config:
+    color_format: Hex
+- type: tag_list
+  name: tags
+  label: Tags
