@@ -17,3 +17,6 @@ fields:
   type: boolean
   hidden: false
   default: true
+- type: file
+  label: Upload A File
+  name: upload_a_file
