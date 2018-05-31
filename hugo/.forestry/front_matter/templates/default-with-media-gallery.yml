@@ -5,16 +5,16 @@ fields:
 - type: text
   label: Title
   name: title
+- type: image_gallery
+  name: files
+  label: Files
+  hidden: false
+  description: Files from Gallery
 - type: text
   name: date
   label: Date
 - type: boolean
   name: draft
   label: Draft
-- type: image_gallery
-  name: files
-  label: Files
-  hidden: false
-  description: Files from Gallery
 pages:
 - posts/testing-front-matter-media-gallery.md
