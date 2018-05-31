@@ -6,18 +6,18 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
 metadescription = "Lance Lance Revolution Hugo Test Site"
 paginate = 5
-theme = "hugo-theme-casper-master"
+
 title = "Lance Lance Revolution"
+[outputs]
+home = ["HTML", "CSS"]
 [params]
 author = "Lance Akins"
 authorbio = ""
 authorlocation = "Earth, Milky Way Galaxy"
 authorwebsite = ""
 cover = "/img/darius-soodmand-116253.jpg"
-description = "Welcome to my website"
+description = "Welco metot henex tlevel"
 hjsstyle = "default"
 logo = ""
 metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
 paginatedsections = ["posts"]
-[outputs]
-  home = [ "HTML", "CSS" ]

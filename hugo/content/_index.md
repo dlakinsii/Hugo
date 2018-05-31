@@ -1,5 +1,7 @@
 ---
-title: "Lance Lance Revolution"
+title: Lance Lance Revolution
+type: page
+
 ---
 Hello world! I'm `content/_index.md`
 
