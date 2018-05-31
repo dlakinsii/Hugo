@@ -1,5 +1,5 @@
 author = "Lance Akins"
-baseURL = "https://dlakinsii.github.io/hugo"
+baseURL = "/"
 copyright = "All rights reserved - 2018"
 description = "Site for learning Hugo and Forestry"
 disableKinds = ["taxonomy", "taxonomyTerm"]
