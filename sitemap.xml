@@ -3,29 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dlakinsii.github.io/hugo/posts/testing-front-matter-media-gallery/</loc>
+    <loc>/posts/testing-front-matter-media-gallery/</loc>
     <lastmod>2018-05-30T14:23:43-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dlakinsii.github.io/hugo/posts/of-nightmares-and-button-clicks/</loc>
+    <loc>/posts/of-nightmares-and-button-clicks/</loc>
     <lastmod>2018-05-24T12:48:07-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dlakinsii.github.io/hugo/posts/testing-out-hugo/</loc>
+    <loc>/posts/testing-out-hugo/</loc>
     <lastmod>2018-05-24T12:46:47-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dlakinsii.github.io/hugo/</loc>
+    <loc>/</loc>
     <lastmod>2018-05-30T14:23:43-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dlakinsii.github.io/hugo/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2018-05-30T14:23:43-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/search/</loc>
   </url>
   
 </urlset>
