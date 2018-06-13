@@ -9,7 +9,7 @@ paginate = 5
 theme = "hugo-theme-casper-master"
 title = "Lance Lance Revolution"
 [outputs]
-home = ["HTML", "CSS"]
+home = ["HTML", "CSS","JSON"]
 [params]
 author = "Lance Akins"
 authorbio = ""
