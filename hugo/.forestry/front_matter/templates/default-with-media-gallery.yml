@@ -8,7 +8,7 @@ fields:
 - type: image_gallery
   name: files
   label: Files
-  hidden: false
+  hidden: true
   description: Files from Gallery
 - type: text
   name: date
