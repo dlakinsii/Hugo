@@ -20,4 +20,4 @@ description = "Welco metot henex tlevel"
 hjsstyle = "default"
 logo = ""
 metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-paginatedsections = ["posts"]
+paginatedsections = ["posts", "portfolio", "music"]
